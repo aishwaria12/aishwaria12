@@ -4,7 +4,6 @@
 
 <p align="left"> <a href="https://twitter.com/aishwariaroy18" target="blank"><img src="https://img.shields.io/twitter/follow/aishwariaroy18?logo=twitter&style=for-the-badge" alt="aishwariaroy18" /></a> </p>
 
-<br>
 <img align="right" alt="coding" width="400" src="https://img.freepik.com/premium-vector/professional-female-programmer-coding-software-laptop_1332465-44815.jpg"><br>
 
 - 🌱 I’m currently learning **Frontend Frameworks**
