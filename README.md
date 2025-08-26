@@ -6,8 +6,6 @@
 
 <img align="right" alt="coding" width="400" src="https://img.freepik.com/premium-vector/professional-female-programmer-coding-software-laptop_1332465-44815.jpg"><br>
 
-- 🌱 I’m currently learning **Frontend Frameworks**
-
 - 📫 How to reach me **aishwariaroy18@gmail.com**
 <br>
 <h3 align="left">Connect with me:</h3>
